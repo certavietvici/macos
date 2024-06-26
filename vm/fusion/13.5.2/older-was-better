@@ -1,0 +1,8 @@
+the option to install macos is gone. 
+tried with sonoma 14.5 both with an iso and the mac installer but neither would boot. 
+recent broadcom and vmware articles indicate support to 14. 
+broadcom since made fusion free after revoking open source esxi.
+something is not quite right.
+
+i have used fusion and parallels the past and both worked well.
+maybe 14.5 is a half version too new and support is coming. (26 JUNE 2024)
